@@ -1,0 +1,7 @@
+# The reproducer eisenstein_dual_membrane.py uses the Python 3 standard library ONLY.
+# No third-party packages are required to reproduce the gate, the dual-membrane
+# confirmation, or the colour-blindness measurement.
+#
+# Optional (only to regenerate figures/eisenstein_membrane_figures.pdf):
+matplotlib>=3.4
+numpy>=1.20

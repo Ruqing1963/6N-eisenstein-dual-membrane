@@ -1,0 +1,65 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "The Dual Membrane and Korselt Colour-Blindness in Eisenstein Carmichael Ideals (Part XXXVIII, Arithmetic Geodynamics on the 6N Skeleton)"
+authors:
+  - family-names: Chen
+    given-names: Ruqing
+    affiliation: "GUT Geoservice Inc., Montreal, Quebec, Canada"
+    email: ruqing@hotmail.com
+version: 1.0.0
+date-released: 2026-06-09
+license: MIT
+repository-code: "https://github.com/Ruqing1963/6N-eisenstein-dual-membrane"
+abstract: >-
+  Lifting the one-dimensional 6N skeleton to its two-dimensional source, the
+  Eisenstein integers Z[omega], we prove a dual membrane theorem: no Eisenstein
+  Carmichael ideal is divisible by the ramified prime above 3 (norm 3) or the
+  inert prime above 2 (norm 4). The two exclusions rest on independent
+  valuations - a 3-adic congruence and a 2-adic parity - so that the removal of
+  2 and 3 that defines the 6N skeleton in one dimension is, in two dimensions, a
+  theorem. Above the membrane, the type-composition spectrum of Eisenstein
+  Carmichael ideals (split versus higher inert factors) is statistically
+  indistinguishable from the null model induced by the factor pool alone
+  (pure-split fraction 0.663 versus 0.642), establishing that the Korselt
+  criterion is colour-blind at the measured resolution.
+keywords:
+  - Carmichael ideals
+  - Eisenstein integers
+  - generalised Korselt criterion
+  - Carmichael numbers
+  - number rings
+  - 6N skeleton
+  - pseudoprimes
+  - computational number theory
+references:
+  - type: article
+    authors:
+      - family-names: Steele
+        given-names: G. A.
+    title: "Carmichael numbers in number rings"
+    journal: "Journal of Number Theory"
+    volume: 128
+    year: 2008
+    start: 910
+    end: 917
+  - type: article
+    authors:
+      - family-names: Bae
+        given-names: S.
+      - family-names: Hu
+        given-names: S.
+      - family-names: Sha
+        given-names: M.
+    title: "On the Carmichael rings, Carmichael ideals and Carmichael polynomials"
+    journal: "Colloquium Mathematicum"
+    volume: 171
+    year: 2023
+    start: 1
+    end: 17
+  - type: generic
+    authors:
+      - family-names: Chen
+        given-names: Ruqing
+    title: "Topological Collapse and Asymmetric Divergence of Carmichael Pseudoprimes on the 6N Skeleton (Part XXXVI)"
+    year: 2026
+    doi: "10.5281/zenodo.20611583"
